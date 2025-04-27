@@ -2,11 +2,6 @@
     "java.project.sourcePaths": ["src"],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
-<<<<<<< HEAD
         "lib/**/*.jar"
     ]
-=======
-        "lib/**/*.jar"]
-
->>>>>>> ec63263aa38cb65f0cf3e2425621acbe8c0cfbf2
 }

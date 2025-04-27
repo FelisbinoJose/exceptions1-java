@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Program",
+            "request": "launch",
+            "mainClass": "application.Program",
+            "projectName": "exceptions_3f8ce5c9"
+        },
+        {
+            "type": "java",
+            "request": "launch",
+            "name": "Executar Programa Java",
+            "mainClass": "Main",
+            "projectName": "EXCEPTIONS"
+        }
+    ]
+}
